@@ -1,2 +1,4 @@
 # Sidharth Muralidharan
-# React.js | Redux | TypeScript | JavaScript | Application Development | Agile | Web Development
+React.js | Redux | TypeScript | JavaScript | Application Development | Agile | Web Development
+
+https://github.com/SidharthMuralidharan
